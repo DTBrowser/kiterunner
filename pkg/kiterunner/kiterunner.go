@@ -5,6 +5,7 @@ import (
 	"errors"
 	"fmt"
 	"sync"
+	"time"
 
 	"github.com/assetnote/kiterunner/pkg/http"
 	"github.com/assetnote/kiterunner/pkg/log"
